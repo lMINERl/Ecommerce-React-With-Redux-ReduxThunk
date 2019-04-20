@@ -296,15 +296,15 @@ strong {
     border-radius: 50%;
     border: 2px solid #444; }
     .image--gray {
-      background-image: url("./assets/images/products/product-grey-1.jpg"); }
+      /* background-image: url("./assets/images/products/product-grey-1.jpg"); } */
     .image-personal {
-      background-image: url("./assets/images/PersonalImage.png"); }
+      /* background-image: url("./assets/images/PersonalImage.png"); } */
     .image-cart-icon-big {
-      background-image: url("./assets/images/icons/icon-cart-big.svg"); }
+      /* background-image: url("./assets/images/icons/icon-cart-big.svg"); } */
     .image-product-1 {
-      background-image: url("./assets/images/products/product-1.jpg"); }
+      /* background-image: url("./assets/images/products/product-1.jpg"); } */
     .image-logo {
-      background: url("./assets/images/logo.png"); }
+      /* background: url("./assets/images/logo.png"); } */
   
 
 .increment-control {
@@ -817,7 +817,7 @@ strong {
   display: inline-block;
   width: 16px;
   height: 11px;
-  background: url("./assets/images/flags.png") no-repeat;}
+  /* background: url("./assets/images/flags.png") no-repeat;} */
   .flag.flag-ad {
     background-position: -16px 0; }
   .flag.flag-ae {

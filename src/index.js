@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import './index.css'
 import thunk from 'redux-thunk';
 import * as serviceWorker from './serviceWorker';
 import { Provider } from 'react-redux';
